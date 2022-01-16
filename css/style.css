@@ -1,0 +1,14 @@
+@media screen and (max-width: 600px) {
+    .carousel-item {
+        height: 60vh;
+    }
+}
+
+.carousel-item img {
+    object-fit: cover;
+    height: 90vh;
+}
+
+.gallery img {
+    width: 400px;
+}
